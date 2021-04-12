@@ -1,18 +1,16 @@
 #  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30">Hi there 👋
 
  <img align="right"  width="350px" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" />
+ 
 👨‍💻‍ College student from China
 
-<!--[![github](https://img.shields.io/badge/-Cyzhen-%23323031?style=flat&logo=github)](https://github.com/Cy-zhen)-->
-
-
 📘 Learning Rust  
-
+ 
 ⌛ 2020 to test students
 
 👫 Want to go to Yangzhou together
 
-#### Languages and Tools
+### Languages and Tools
 
 [![Rust](https://img.shields.io/badge/-Rust-f47920?style=flat&logo=Rust&logoColor=White)](#) 
 ![C++](https://img.shields.io/badge/-C-0D0D0D?style=flat&logo=C&logoColor=White)
