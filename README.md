@@ -1,11 +1,12 @@
-### Hi there 👋
+#  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30">Hi there 👋
 
  <img align="right"  width="350px" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" />
 👨‍💻‍ College student from China
 
 <!--[![github](https://img.shields.io/badge/-Cyzhen-%23323031?style=flat&logo=github)](https://github.com/Cy-zhen)-->
 
-📘 Learning Rust   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="20">
+
+📘 Learning Rust  
 
 ⌛ 2020 to test students
 
