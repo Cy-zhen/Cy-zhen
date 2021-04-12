@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+ <img align="right"  width="350px" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" />
 👨‍💻‍ College student from China
 
 <!--[![github](https://img.shields.io/badge/-Cyzhen-%23323031?style=flat&logo=github)](https://github.com/Cy-zhen)-->
