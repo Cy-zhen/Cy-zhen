@@ -1,6 +1,6 @@
 #  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30">Hi there 👋
 
- <img align="right"  width="350px" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" />
+<!-- <img align="right"  width="350px" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" />-->
  
 👨‍💻‍ College student from China
 
