@@ -4,11 +4,10 @@
  
 👨‍💻‍ College student from China
 
-📘 Learning Rust  
+📘 Learning 
  
 ⌛ 2020 to test students
 
-👫 Want to go to Yangzhou together
 
 ### Languages and Tools
 
