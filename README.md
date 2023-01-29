@@ -2,12 +2,7 @@
 
 <!-- <img align="right"  width="350px" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" />-->
  
-👨‍💻‍ College student from China
-
 📘 Learning 
- 
-⌛ 2020 to test students
-
 
 ### Languages and Tools
 
